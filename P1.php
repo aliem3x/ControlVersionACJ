@@ -22,6 +22,6 @@
     echo'</br></br><a href="../index.html">Volver al MENÚ</a>';
     
     echo 'Primer Añadido';
-
+    echo 'Segund Añadido';
     
 ?>
