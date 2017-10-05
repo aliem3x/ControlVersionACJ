@@ -25,4 +25,5 @@
     echo 'Segund Añadido';
     echo 'Tercer Añadido';
     
+    $fantasma;
 ?>
