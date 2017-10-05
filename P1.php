@@ -25,5 +25,5 @@
     echo 'Segund Añadido';
     echo 'Tercer Añadido';
     
-    $fantasma=10;
+    $fantasma=15;
 ?>
